@@ -24,11 +24,11 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^6.3.2",
-    "@nestjs/core": "^6.3.2",
-    "@nestjs/graphql": "^6.2.4",
+    "@nestjs/common": "^7.5.0",
+    "@nestjs/core": "^7.5.5",
+    "@nestjs/graphql": "^7.11.0",
     "@nestjs/platform-express": "^6.3.2",
-    "@nestjs/platform-socket.io": "^6.3.2",
+    "@nestjs/platform-socket.io": "^8.0.0",
     "@nestjs/typeorm": "^6.1.2",
     "@nestjs/websockets": "^6.3.2",
     "@types/compression": "0.0.36",
@@ -39,17 +39,17 @@
     "graphql": "^14.4.0",
     "graphql-tools": "^4.0.5",
     "helmet": "^3.18.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "lodash": "^4.17.11",
     "mjml": "^4.4.0-beta.2",
-    "mongodb": "^3.2.7",
+    "mongodb": "^3.3.0",
     "nest-schedule": "^0.6.0",
     "nodemailer": "^6.2.1",
     "reflect-metadata": "^0.1.12",
     "rimraf": "^2.6.2",
     "rxjs": "^6.5.2",
-    "type-graphql": "^0.17.4",
-    "typeorm": "^0.2.18"
+    "type-graphql": "^1.0.0",
+    "typeorm": "^0.3.12"
   },
   "devDependencies": {
     "@nestjs/testing": "^6.3.2",
