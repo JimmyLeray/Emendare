@@ -56,12 +56,12 @@
     "lodash": "4.17.11",
     "react": "16.8.6",
     "react-dom": "16.8.6",
-    "react-router-dom": "^5.0.0",
-    "react-scripts": "^2.1.8",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "^5.0.0",
     "react-use": "^9.1.0",
     "react-virtualized": "9.21.0",
     "serve-static": "1.14.1",
-    "socket.io-client": "2.2.0"
+    "socket.io-client": "4.0.0"
   },
   "devDependencies": {
     "@types/blueimp-md5": "^2.7.0",
