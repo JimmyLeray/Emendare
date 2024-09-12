@@ -51,7 +51,7 @@
     "compression": "1.7.4",
     "cors": "2.8.5",
     "diff": "4.0.1",
-    "express": "4.17.1",
+    "express": "4.21.0",
     "express-sslify": "1.2.0",
     "lodash": "4.17.11",
     "react": "16.8.6",
@@ -60,7 +60,7 @@
     "react-scripts": "^2.1.8",
     "react-use": "^9.1.0",
     "react-virtualized": "9.21.0",
-    "serve-static": "1.14.1",
+    "serve-static": "1.16.1",
     "socket.io-client": "2.2.0"
   },
   "devDependencies": {
