@@ -26,9 +26,9 @@
   "dependencies": {
     "@nestjs/common": "^6.3.2",
     "@nestjs/core": "^6.3.2",
-    "@nestjs/graphql": "^6.2.4",
-    "@nestjs/platform-express": "^6.3.2",
-    "@nestjs/platform-socket.io": "^6.3.2",
+    "@nestjs/graphql": "^12.2.1",
+    "@nestjs/platform-express": "^10.4.5",
+    "@nestjs/platform-socket.io": "^10.4.6",
     "@nestjs/typeorm": "^6.1.2",
     "@nestjs/websockets": "^6.3.2",
     "@types/compression": "0.0.36",
